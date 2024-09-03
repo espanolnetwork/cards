@@ -1,0 +1,144 @@
+{
+    "1": [
+        {
+            "name": "ELLA",
+            "img": "1\\ella.png"
+        },
+        {
+            "name": "ELLAS",
+            "img": "1\\ellas.png"
+        },
+        {
+            "name": "ELLOS (1)",
+            "img": "1\\ellos (1).png"
+        },
+        {
+            "name": "ELLOS",
+            "img": "1\\ellos.png"
+        },
+        {
+            "name": "NOSOTRAS",
+            "img": "1\\nosotras.png"
+        },
+        {
+            "name": "NOSOTROS (1)",
+            "img": "1\\nosotros (1).png"
+        },
+        {
+            "name": "NOSOTROS",
+            "img": "1\\nosotros.png"
+        },
+        {
+            "name": "T\u00da",
+            "img": "1\\t\u00fa.png"
+        },
+        {
+            "name": "USTED",
+            "img": "1\\usted.png"
+        },
+        {
+            "name": "USTEDES",
+            "img": "1\\ustedes.png"
+        },
+        {
+            "name": "VOSOTRAS",
+            "img": "1\\vosotras.png"
+        },
+        {
+            "name": "VOSOTROS",
+            "img": "1\\vosotros.png"
+        },
+        {
+            "name": "YO",
+            "img": "1\\yo.png"
+        },
+        {
+            "name": "\u00c9L",
+            "img": "1\\\u00e9l.png"
+        }
+    ],
+    "2": [
+        {
+            "name": "ESTAR (1)",
+            "img": "2\\estar (1).png"
+        },
+        {
+            "name": "ESTAR",
+            "img": "2\\estar.png"
+        },
+        {
+            "name": "HACER (1)",
+            "img": "2\\hacer (1).png"
+        },
+        {
+            "name": "HACER",
+            "img": "2\\hacer.png"
+        },
+        {
+            "name": "IR",
+            "img": "2\\ir.png"
+        },
+        {
+            "name": "SER (1)",
+            "img": "2\\ser (1).png"
+        },
+        {
+            "name": "SER",
+            "img": "2\\ser.png"
+        },
+        {
+            "name": "TENER",
+            "img": "2\\tener.png"
+        }
+    ],
+    "3": [
+        {
+            "name": "AUTOB\u00daS",
+            "img": "3\\autob\u00fas.png"
+        },
+        {
+            "name": "AVI\u00d3N",
+            "img": "3\\avi\u00f3n.png"
+        },
+        {
+            "name": "BARCO",
+            "img": "3\\barco.png"
+        },
+        {
+            "name": "BICICLETA",
+            "img": "3\\bicicleta.png"
+        },
+        {
+            "name": "CAMI\u00d3N",
+            "img": "3\\cami\u00f3n.png"
+        },
+        {
+            "name": "GLOBO",
+            "img": "3\\globo.png"
+        },
+        {
+            "name": "HELIC\u00d3PTERO",
+            "img": "3\\helic\u00f3ptero.png"
+        },
+        {
+            "name": "METRO",
+            "img": "3\\metro.png"
+        },
+        {
+            "name": "MOTOCICLETA",
+            "img": "3\\motocicleta.png"
+        },
+        {
+            "name": "SUBMARINO",
+            "img": "3\\submarino.png"
+        },
+        {
+            "name": "TRANV\u00cdA",
+            "img": "3\\tranv\u00eda.png"
+        },
+        {
+            "name": "TREN",
+            "img": "3\\tren.png"
+        }
+    ]
+}

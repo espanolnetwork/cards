@@ -1,0 +1,68 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #00C4CC;
+  margin: 0;
+  flex-wrap: wrap;
+}
+.card {
+  background-color: #4C56A6;
+  border-radius: 10px;
+  color: #fff;
+  text-align: center;
+  width: 250px;
+  margin: 20px;
+  padding: 20px;
+  box-sizing: border-box;
+}
+.card:hover {
+  transform: scale(1.1);
+}
+.button {
+  background-color: #F89406;
+  border: none;
+  color: #fff;
+  padding: 15px;
+  border-radius: 20px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+.button:hover {
+  transform: scale(1.1);
+  background-color: #f9ca24;
+}
+.apicto-name {
+  background-color: #00A94F;
+  padding: 15px;
+  margin: 20px 0;
+  font-size: 18px;
+}
+.apicto-name:hover {
+  transform: scale(1.1);
+}
+.apicto-image {
+  width: 100%;
+  max-width: 200px;
+  height: auto;
+  display: block;
+  margin: auto;
+  transition: transform 0.3s ease-in-out;
+}
+.apicto-image:hover {
+  transform: scale(1.1);
+}
+@media (max-width: 768px) {
+  .card {
+      width: 80%;
+      margin: 10px;
+  }
+}
+@media (max-width: 480px) {
+  .card {
+      width: 100%;
+      margin: 5px;
+  }
+}
